@@ -10,4 +10,4 @@
 
 <!-- -->
 
-![picture](chuqi.jpg)
+![picture](chuqi.jpeg)
