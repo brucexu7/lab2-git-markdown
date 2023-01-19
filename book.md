@@ -1,3 +1,7 @@
+---
+---
+---
+
 # here is my book list:
 
 -   book 1:1
@@ -6,4 +10,4 @@
 
 <!-- -->
 
--   ![picture of me](images/chuqi.jpg)
+![picture](chuqi.jpg)
